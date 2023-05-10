@@ -1,0 +1,32 @@
+form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 60%;
+    top: 50%;
+    left: 50%;
+}
+.header_text {
+    text-align: center
+}
+.button_form{
+    margin: 10px;
+}
+.element_form{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.element_label{
+    width: 50%;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.label_form{
+    margin-bottom: 10px;
+}
